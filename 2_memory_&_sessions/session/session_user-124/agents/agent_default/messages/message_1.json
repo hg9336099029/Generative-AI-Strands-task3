@@ -1,0 +1,25 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "I don't know who you are! I'm an AI, so I don't have access to your **personal information**.\n\nBut here are a few fun ways to think about it:\n\n- 🧠 **Philosophically** - \"Who am I?\" is one of the greatest questions humans ask themselves\n- 👤 **Personally** - You are a unique individual with your own thoughts, experiences, and identity\n- 💻 **In this chat** - You are simply an **anonymous user** to me\n\n---\n\n### Would you like to explore:\n- 🤔 **Philosophy of identity** - What makes you *you*?\n- 🧬 **Science of identity** - Psychology or biology?\n- 💬 **Just introduce yourself!** - Tell me about you!\n\nI'm here to help and learn about **what interests you!** 😊"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 68,
+        "outputTokens": 198,
+        "totalTokens": 266
+      },
+      "metrics": {
+        "latencyMs": 4630,
+        "timeToFirstByteMs": 5105
+      }
+    }
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2026-06-20T18:16:17.736846+00:00",
+  "updated_at": "2026-06-20T18:16:17.736865+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "Based on our conversation, I only know that your name is **Harsh Gupta**! 😊\n\nI don't have any other information about you. I only know what you share with me in our conversation.\n\n## You could tell me more about yourself, like:\n\n- 🎓 **Your field of study or profession**\n- 🌍 **Where you are from**\n- 🎯 **Your interests and hobbies**\n- 📚 **What topics you want to learn about**\n\nThe more you share, the better I can **assist and personalize** my responses for you! \n\nSo, tell me more about yourself, **Harsh Gupta**! 😊"
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 305,
+        "outputTokens": 161,
+        "totalTokens": 466
+      },
+      "metrics": {
+        "latencyMs": 3393,
+        "timeToFirstByteMs": 5267
+      }
+    }
+  },
+  "message_id": 5,
+  "redact_message": null,
+  "created_at": "2026-06-20T18:15:44.373775+00:00",
+  "updated_at": "2026-06-20T18:15:44.373804+00:00"
+}
